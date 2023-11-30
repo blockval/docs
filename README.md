@@ -15,12 +15,12 @@ import TabItem from '@theme/TabItem';
   <TabItem value="orange" label="Orange">
     This is an orange 🍊
 
-  ```jsx title="/src/components/HelloCodeTitle.js"
-  function HelloCodeTitle(props) {
-    return <h1>Hello, {props.name}</h1>;
-  }
-  ```
-    This is caca
+    ```jsx title="/src/components/HelloCodeTitle.js"
+    function HelloCodeTitle(props) {
+      return <h1>Hello, {props.name}</h1>;
+    }
+    ```
+  
   </TabItem>
   <TabItem value="banana" label="Banana">
     This is a banana 🍌
